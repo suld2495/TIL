@@ -32,3 +32,8 @@
 <br />
 
 ### 🏆 공부 인증
+
+1. [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술] 섹션 2. HttpServletRequest - 프로젝트 생성
+
+![image](https://github.com/suld2495/TIL/assets/42727909/4d12dcdf-2daf-4470-bd9d-3d7d85084b7a)
+
