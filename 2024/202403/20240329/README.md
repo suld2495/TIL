@@ -37,3 +37,15 @@
 <br />
 
 ### 🏆 공부 인증
+
+1. [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술] 섹션 2. HttpServletRequest - 기본 사용법 까지
+
+![image](https://github.com/suld2495/TIL/assets/42727909/23a5209c-b168-446c-9752-b47e69bc8c86)
+
+2. [스프링 시큐리티 강의] 섹션 1. 6 ~ 8 까지
+
+![image](https://github.com/suld2495/TIL/assets/42727909/351d127c-6fb3-4830-8120-93ff607e32bd)
+
+3. [프로그래머스] H-Index
+
+![image](https://github.com/suld2495/TIL/assets/42727909/c5c87124-1109-41a9-99fa-19520d5efad4)
