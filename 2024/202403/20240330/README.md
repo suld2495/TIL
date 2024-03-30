@@ -36,3 +36,11 @@
 <br />
 
 ### 🏆 공부 인증
+
+1. [스프링 시큐리티 강의] 섹션 1. 9 완료
+
+![image](https://github.com/suld2495/TIL/assets/42727909/5bbed791-83e1-44ca-970d-ffac985caa45)
+
+2. [그룹 생성기 프로젝트]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/d9975cc4-a8d0-40d6-8d0b-efe00ed4e16a)
