@@ -43,3 +43,13 @@
 <br />
 
 ### 🏆 공부 인증
+
+1. [React 완벽 가이드]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/3041480b-215a-4111-819a-d7f164fe4f51)
+
+2. [2주만에 통과하는 알고리즘 코딩테스트]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/259aebff-942e-4c22-bac7-8ea63213cabe)
+
+
