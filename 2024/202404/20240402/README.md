@@ -46,4 +46,9 @@
 
 1. [스프링 시큐리티 강의] 섹션 1. 10 ~ 11 듣기
 
+![image](https://github.com/suld2495/TIL/assets/42727909/9b5f11ee-c4c7-46ef-8fb1-662ba697a6ad)
+
+
 2. [백준] 차이를 최대로 풀기.
+
+https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Silver/10819.%E2%80%85%EC%B0%A8%EC%9D%B4%EB%A5%BC%E2%80%85%EC%B5%9C%EB%8C%80%EB%A1%9C
