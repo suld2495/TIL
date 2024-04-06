@@ -1,4 +1,4 @@
-## 📅 2024/04/04
+## 📅 2024/04/05
 
 ### 🚀 월간 우선 목표
 
@@ -42,4 +42,4 @@
 ### 🏆 공부 인증
 
 - [x] [프로그래머스] 알고리즘 1개 풀기
-[링크](https://github.com/suld2495/fridaycoffee/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12941.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
+      [링크](https://github.com/suld2495/fridaycoffee/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12941.%E2%80%85%EC%B5%9C%EC%86%9F%EA%B0%92%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)
