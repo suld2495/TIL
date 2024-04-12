@@ -41,3 +41,4 @@
 ### 🏆 공부 인증
 
 1. 알고리즘 풀기
+[링크](https://github.com/suld2495/fridaycoffee/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12953.%E2%80%85N%EA%B0%9C%EC%9D%98%E2%80%85%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
