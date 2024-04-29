@@ -47,4 +47,10 @@
 
 1. 그룹 생성기
 
+![image](https://github.com/suld2495/TIL/assets/42727909/10747d24-2d2d-4607-a397-1964dd4d8033)
+
+
 2. chat gpt 자바 연동 테스트
+
+![image](https://github.com/suld2495/TIL/assets/42727909/68ef14df-a983-493d-a4b4-7478dcbf2a97)
+
