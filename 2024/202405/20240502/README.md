@@ -45,11 +45,9 @@
 
 1. [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술]
 
-<<<<<<< HEAD
-2. [React 완벽 가이드]
-=======
-![image](https://github.com/suld2495/TIL/assets/42727909/f2a455c1-efd4-426e-a5d4-9b7d7b1dc700)
+![image](https://github.com/suld2495/TIL/assets/42727909/0b025cbf-0444-42fa-b4fc-23f493d8ad9c)
 
-2. 알고리즘
-   [링크](https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Silver/15652.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%884%EF%BC%89)
->>>>>>> 2c4f9d87fab9c1ee497f6776164f1c121900f46c
+
+2. [React 완벽 가이드]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/7aa387a3-47fc-43e7-94b8-03c077b792dd)
