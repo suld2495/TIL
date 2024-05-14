@@ -46,5 +46,7 @@
 
 1. [스프링 시큐리티 강의]
 
+![image](https://github.com/suld2495/TIL/assets/42727909/3af87375-a795-43a8-8254-005c93e4936a)
+
 2. 외부 환경 설정
    [링크](../../../Spring/basic/환경%20설정.md)
