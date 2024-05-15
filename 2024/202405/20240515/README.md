@@ -46,5 +46,7 @@
 
 1. [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술]
 
+![image](https://github.com/suld2495/TIL/assets/42727909/229b3ea6-18ef-4e91-99ed-5ba9276bbea2)
+
 2. [백준]
    [링크](https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Gold/2661.%E2%80%85%EC%A2%8B%EC%9D%80%EC%88%98%EC%97%B4)
