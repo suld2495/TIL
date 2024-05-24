@@ -46,5 +46,7 @@
 
 1. [리액트 Query]
 
+![image](https://github.com/suld2495/TIL/assets/42727909/894a699c-c6cc-468c-91ea-8590c533dcff)
+
 2. [백준]
    [링크](https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Silver/2503.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%95%BC%EA%B5%AC)
