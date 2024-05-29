@@ -26,6 +26,7 @@
 
 - [x] [백준] 한문제 풀기
 - [x] [스프링 시큐리티 강의] 섹션 3. - 4~9
+- [x] [리액트 Query] 섹션 6. 완료
 
 <br />
 
@@ -45,3 +46,5 @@
 
 2. [백준]
    [링크](https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9)
+
+3. [리액트 Query]
