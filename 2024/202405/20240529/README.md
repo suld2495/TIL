@@ -44,7 +44,12 @@
 
 1. [스프링 시큐리티 강의]
 
+![image](https://github.com/suld2495/TIL/assets/42727909/4a32b69f-ee9c-4719-89d8-6a7a84a686e2)
+
 2. [백준]
    [링크](https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9)
 
 3. [리액트 Query]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/5cda57ca-2328-4c18-a1dd-6e478f034133)
+
