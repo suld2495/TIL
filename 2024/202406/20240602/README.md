@@ -42,3 +42,7 @@
 <br />
 
 ### 🏆 공부 인증
+
+1. [Tailwind CSS로 만드는 멋진 웹 UI 스타일링]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/882a7a1b-ba7d-4b62-bfe5-cf7c60874a81)
