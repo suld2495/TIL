@@ -44,6 +44,9 @@
 
 ### 🏆 공부 인증
 
-1. [스프링 시큐리티 강의]
+1. [스프링 시큐리티 강의], [Tailwind CSS로 만드는 멋진 웹 UI 스타일링]
 
-2. [Tailwind CSS로 만드는 멋진 웹 UI 스타일링]
+![image](https://github.com/suld2495/TIL/assets/42727909/967e9c4f-7237-4ea5-9a57-e4e79f45e0f7)
+
+2. [프로그래머스]
+[링크](https://github.com/suld2495/fridaycoffee/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/12915.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%82%B4%E2%80%85%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
