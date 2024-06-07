@@ -49,3 +49,6 @@
    [링크](https://github.com/suld2495/fridaycoffee/tree/main/%EB%B0%B1%EC%A4%80/Silver/11660.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%855)
 
 2. [관광 프로젝트]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/76807a75-edea-4213-9c41-e837e26c5ae7)
+
