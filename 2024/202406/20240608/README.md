@@ -50,3 +50,6 @@
    [링크](https://github.com/suld2495/fridaycoffee/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/12924.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84)
 
 2. [관광 프로젝트]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/d930d57f-1449-45a1-a61c-5264b1fa9bf8)
+
