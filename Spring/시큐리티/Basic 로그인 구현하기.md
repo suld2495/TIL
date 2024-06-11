@@ -68,13 +68,11 @@ http
   ```java
   package com.test.filter;
 
-  import com.test.auth.LoginAuthenticationProvider;
   import com.test.auth.LoginAuthenticationToken;
   import jakarta.servlet.http.HttpServletRequest;
   import jakarta.servlet.http.HttpServletResponse;
   import lombok.extern.slf4j.Slf4j;
   import org.springframework.http.HttpMethod;
-  import org.springframework.security.authentication.AuthenticationManager;
   import org.springframework.security.authentication.AuthenticationServiceException;
   import org.springframework.security.core.Authentication;
   import org.springframework.security.core.AuthenticationException;
@@ -82,10 +80,8 @@ http
   import org.springframework.security.web.authentication.AuthenticationConverter;
   import org.springframework.security.web.authentication.www.BasicAuthenticationConverter;
   import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
-  import org.springframework.stereotype.Component;
 
   @Slf4j
-  @Component
   public class LoginAuthenticationFilter extends AbstractAuthenticationProcessingFilter {
 
       private static final AntPathRequestMatcher SSO_LOGIN_ANT_PATH_REQUEST_MATCHER
@@ -93,8 +89,8 @@ http
 
       private AuthenticationConverter authenticationConverter = new BasicAuthenticationConverter();
 
-      public LoginAuthenticationFilter(AuthenticationManager authenticationManager) {
-          super(SSO_LOGIN_ANT_PATH_REQUEST_MATCHER, authenticationManager);
+      public LoginAuthenticationFilter() {
+          super(SSO_LOGIN_ANT_PATH_REQUEST_MATCHER);
       }
 
       @Override
@@ -116,7 +112,6 @@ http
           return this.getAuthenticationManager().authenticate(authentication);
       }
   }
-
   ```
 
 1. 필터 조건을 `new AntPathRequestMatcher("/api/auth/login", HttpMethod.*POST*.name());` 와 같이 추가.
@@ -142,7 +137,8 @@ http
   }
 
   public Filter loginAuthenticationFilter() {
-      LoginAuthenticationFilter authenticationFilter = new LoginAuthenticationFilter(authenticationManager());
+      LoginAuthenticationFilter authenticationFilter = new LoginAuthenticationFilter();
+      authenticationFilter.setAuthenticationManager(authenticationManager());
       return authenticationFilter;
   }
   ```
@@ -205,7 +201,6 @@ http
           return LoginAuthenticationToken.class.isAssignableFrom(authentication);
       }
   }
-
   ```
 - `supports` 메서드는 전달받은 인증객체를 해당 클래스에서 처리가능한지 여부를 반환한다.
   - `LoginAuthenticationToken` 인증객체를 전달받은 경우 처리한다.
@@ -258,10 +253,10 @@ http
 		.httpBasic(Customizer.withDefaults())
 ```
 
-위의 설정을 사용하는 경우 `BasicAuthenticationFilter` 가 호출되기에 해당 필터를 새롭게 만든 `LoginAuthenticationFilter` 로 대체하였다.
+위의 설정을 사용하는 경우 `BasicAuthenticationFilter` 가 호출되기에 해당 필터를 새롭게 만든 `LoginAuthenticationFilter` 를 앞에 배치하여 인증 처리를 먼저 하였다.
 
 ```java
 http
-		.addFilterAt(loginAuthenticationFilter(), BasicAuthenticationFilter.class)
+		.addFilterBefore(loginAuthenticationFilter(), BasicAuthenticationFilter.class)
 
 ```
