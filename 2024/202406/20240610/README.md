@@ -44,5 +44,7 @@
 
 1. [스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술]
 
+![image](https://github.com/suld2495/TIL/assets/42727909/660faf9c-2667-4411-9fe1-a11851cbb525)
+
 2. Basic 인증 로그인 방식 정리
    [링크](../../../Spring/시큐리티/Basic%20로그인%20구현하기.md)
