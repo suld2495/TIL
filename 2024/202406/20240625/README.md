@@ -40,4 +40,9 @@
 ### 🏆 공부 인증
 
 1. [스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/283941eb-b8d6-47e6-ae7e-814e8ea300df)
+
 2. [React 완벽 가이드]
+
+![image](https://github.com/suld2495/TIL/assets/42727909/014949d6-c5c8-4075-9198-9c6d84de3337)
