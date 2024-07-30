@@ -39,3 +39,5 @@
 ### 🏆 공부 인증
 
 - [스프링 시큐리티 강의]
+
+![image](https://github.com/user-attachments/assets/45e1e1ea-acb2-42cf-b383-daa0419ed407)
