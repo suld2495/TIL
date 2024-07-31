@@ -38,3 +38,5 @@
 ### 🏆 공부 인증
 
 - [스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술]
+
+![image](https://github.com/user-attachments/assets/6fb88782-67cb-4668-8a75-87cb1fa4f291)
